@@ -1,4 +1,5 @@
-#!/bin/sh
+
+!/bin/sh
 if [ -d "/home/q/php/STC" ];then
 STC_PATH="/home/q/php/STC"
 else

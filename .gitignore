@@ -51,6 +51,6 @@ output/
 output.theme/
 .version
 
-build/firekylin
+build/
 
 75team.sh
